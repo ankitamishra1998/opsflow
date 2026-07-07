@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div>
-      <h1>OpsFlow</h1>
+      <h1>OpsFlow Application</h1>
       <p>Backend Status: {message}</p>
     </div>
   );
